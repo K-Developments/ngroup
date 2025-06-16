@@ -87,10 +87,10 @@
   body {
     @apply bg-background text-foreground;
   }
-  html {
-    font-size: 95%;
-  }
-
+   html{
+    font-size:95%;
+   }
+}
 
 @media print {
   .app-layout-sidebar,
